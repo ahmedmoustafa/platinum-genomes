@@ -1,2 +1,2 @@
-# platinum-genomes
-Illumina's Platinum Genomes
+# Illumina's Platinum Genomes
+
